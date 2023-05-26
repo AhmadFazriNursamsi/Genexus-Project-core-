@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>UTF-8</Charset>
+   <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus18/</Path>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>City</ObjName>
+      <ObjDesc>City</ObjDesc>
+      <ObjLink>/KBBaruJavaPostgreSQL/com.kbbaru.city</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Trips</ObjName>
+      <ObjDesc>Trips</ObjDesc>
+      <ObjLink>/KBBaruJavaPostgreSQL/com.kbbaru.trips</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>MainPanel</ObjName>
+      <ObjDesc>Main Panel</ObjDesc>
+      <ObjLink>/KBBaruJavaPostgreSQL/com.kbbaru.mainpanel</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWCountry</ObjName>
+      <ObjDesc>Countries</ObjDesc>
+      <ObjLink>/KBBaruJavaPostgreSQL/com.kbbaru.wwcountry</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWAttractions</ObjName>
+      <ObjDesc>Work With Attractions</ObjDesc>
+      <ObjLink>/KBBaruJavaPostgreSQL/com.kbbaru.wwattractions</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWCategory</ObjName>
+      <ObjDesc>Categories</ObjDesc>
+      <ObjLink>/KBBaruJavaPostgreSQL/com.kbbaru.wwcategory</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>EnterAttraction</ObjName>
+      <ObjDesc>Enter Attraction</ObjDesc>
+      <ObjLink>/KBBaruJavaPostgreSQL/com.kbbaru.enterattraction</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>CategoryPanel</ObjName>
+      <ObjDesc>Category Panel</ObjDesc>
+      <ObjLink>/KBBaruJavaPostgreSQL/com.kbbaru.categorypanel</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>AttractionList</ObjName>
+      <ObjDesc>Attraction List</ObjDesc>
+      <ObjLink>/KBBaruJavaPostgreSQL/com.kbbaru.aattractionlist</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>AttractionsCategoryUpdate</ObjName>
+      <ObjDesc>Attractions Category Update</ObjDesc>
+      <ObjLink>/KBBaruJavaPostgreSQL/com.kbbaru.aattractionscategoryupdate</ObjLink>
+   </Object>
+</Objects>

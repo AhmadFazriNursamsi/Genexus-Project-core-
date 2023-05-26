@@ -1,0 +1,35 @@
+current_obj_i(2,proc,15).
+ 
+current_guid('64bdface-65c0-41e3-b6a0-3fd1514a87ab').
+ 
+ 
+ 
+is_webproc_i(aattractionlist).
+ 
+ 
+is_pdf_i.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_main_object(aattractionlist,'Attraction List','','""','HTTP',default).
+ 
+ 
+ 
+ 
+ij_object_dependency(aattractionlist,[ aattractionlist__default ],[ aattractionlist_impl ],[ 'GxWebStd' ],15).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

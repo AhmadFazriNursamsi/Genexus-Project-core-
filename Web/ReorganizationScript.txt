@@ -1,0 +1,4 @@
+CREATE TABLE CityKecamatan (CityId smallint NOT NULL , CityKecamatanId smallint NOT NULL , CityKecamatanName VARCHAR(40) NOT NULL , PRIMARY KEY(CityId, CityKecamatanId))
+
+ALTER TABLE CityKecamatan ADD CONSTRAINT ICITYKECAMATAN1 FOREIGN KEY (CityId) REFERENCES City (CityId)
+

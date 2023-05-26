@@ -1,0 +1,35 @@
+current_obj_i(2,proc,16).
+ 
+current_guid('691ccb3a-103b-4c1d-aec0-b46e31e6c308').
+ 
+ 
+ 
+is_webproc_i(aproccoba).
+ 
+ 
+is_pdf_i.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_main_object(aproccoba,'proc Coba','','""','HTTP',default).
+ 
+ 
+ 
+ 
+ij_object_dependency(aproccoba,[ aproccoba__default ],[ aproccoba_impl ],[ 'GxWebStd','SdtSDTCountry','StructSdtSDTCountry','SdtSDTCountry_CityItem','StructSdtSDTCountry_CityItem','GxObjectCollection' ],16).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

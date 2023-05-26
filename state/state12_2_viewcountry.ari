@@ -1,0 +1,36 @@
+current_obj_i(2,web,19).
+ 
+current_guid('d9fce03e-6f82-418b-af54-6820f2ab89ec').
+ 
+ 
+called_tree_i(13,19,1,13).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ij_main_object(viewcountry,'View Country','','""','',default).
+ 
+ 
+ 
+ 
+ij_object_dependency(viewcountry,[ viewcountry__default ],[ viewcountry_impl ],[ 'GxWebStd' ],19).
+ 
+ 
+ 
+ij_usercontrol_directory_i('Tab').
+ij_usercontrol_directory_i(shared).
+ 
+ 
+ 
+ 
+ 
